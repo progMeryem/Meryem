@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🌱 I’m currently Working on Web App(Express Js - React Js).
+- 🌱 I’m currently Working on Web App(NodeJs - React Js- Next Js).
 - 🌱 I’m currently learning Microservices architecture.
 - 🌱 I’m currently learning ERP
 
- - 💬 Ask me about ** Express Js - React Js**.
+ - 💬 Ask me about **NodeJs - React Js- Next Js**.
  - 📫 How to reach me **meryemlekhdassi17@gmail.com**
  
  <br/>
