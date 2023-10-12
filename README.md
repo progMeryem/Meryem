@@ -32,7 +32,7 @@
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
-
+![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![ReactJs]((https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
